@@ -1,0 +1,15 @@
+Overview
+This repository contains a Power BI report and data analysis on electric vehicle (EV) population trends, using data gathered across various regions. With growing interest in sustainable transportation, this project aims to provide a detailed, data-driven view of EV adoption patterns, top-performing regions, and the potential environmental impact of widespread EV usage.
+
+Key Insights
+Top Regions for EV Adoption: Identify regions with the highest EV density and compare urban adoption rates.
+Growth Trends: Track year-over-year growth in EV adoption, highlighting key drivers.
+Environmental Benefits: Explore data on how EV adoption could lower carbon footprints, supporting sustainability goals.
+Repository Contents
+Electric_Vehicle_Population_Data.csv: Source dataset with detailed EV population data.
+Electric_Vehicle_Report.pbix: Power BI report with interactive visualizations, uncovering trends in EV adoption.
+Getting Started
+Clone the repository.
+Open the Power BI file to explore interactive visuals and customize insights.
+Purpose
+This project aims to support policymakers, urban planners, and sustainability advocates with actionable insights into EV adoption, promoting data-driven decisions for a sustainable future.
